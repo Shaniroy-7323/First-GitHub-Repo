@@ -1,2 +1,3 @@
 # First-GitHub-Repo
-This is my first day on Github
+This is my first day on Github. 
+Author - Shani Roy
